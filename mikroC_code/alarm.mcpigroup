@@ -1,0 +1,6 @@
+[PROJECTS]
+Count=2
+Project0=..\..\..\..\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Examples\carte_acquisition.mcppi
+Project1=temperature_acquisition.mcppi
+[ActiveProject]
+Index=1

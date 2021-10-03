@@ -1,0 +1,1 @@
+void display(unsigned int temperature);
